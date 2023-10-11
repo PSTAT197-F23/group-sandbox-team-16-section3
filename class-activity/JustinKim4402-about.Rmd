@@ -1,0 +1,14 @@
+---
+title: "JustinKim4402-about"
+author: "Justin Kim"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## About me
+
+I'm allergic to blueberries
