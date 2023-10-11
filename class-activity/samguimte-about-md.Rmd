@@ -11,4 +11,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## About Me
 
-My name is Sam Guimte, and I am a Dallas Mavericks fan.
+My name is Sam Guimte, and I am a Dallas Mavericks fan. And I play tennis
+
+He is from Bakersfield, California.
