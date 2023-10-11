@@ -7,6 +7,10 @@ output: html_document
 
 ## About Me 
 
+<<<<<<< Updated upstream
 Hi! I'm Maya. One fun fact about me is I love being outdoors like hiking, laying in the sun, going to the beach, and more. 
 
 And I like pomegranate seeds.
+=======
+Hi! I'm Maya. One fun fact about me is I love being outdoors. 
+>>>>>>> Stashed changes
