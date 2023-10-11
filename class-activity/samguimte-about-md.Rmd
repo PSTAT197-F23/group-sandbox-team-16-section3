@@ -1,0 +1,14 @@
+---
+title: "About Me - Sam"
+author: "Sam Guimte"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## About Me
+
+My name is Sam Guimte, and I am a Dallas Mavericks fan.
