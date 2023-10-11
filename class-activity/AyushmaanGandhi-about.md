@@ -11,3 +11,5 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # About Me
 I like to play tennis.
+
+His favorite color is purple. 
