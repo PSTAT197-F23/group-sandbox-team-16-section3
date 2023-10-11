@@ -1,0 +1,16 @@
+---
+title: "luibaraj_about"
+output: html_document
+date: "2023-10-11"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# About Me
+
+I am a fourth year PSTAT major
+
+
+How old are you?

@@ -1,0 +1,10 @@
+---
+title: "About Me"
+author: "Maya Hetz"
+date: "2023-10-11"
+output: html_document
+---
+
+## About Me 
+
+Hi! I'm Maya. One fun fact about me is I love being outdoors like hiking, laying in the sun, going to the beach, and more. 

@@ -2,9 +2,6 @@
 
 template repo for class activity on git and github in pstat197a
 
-updated october 2023
-<<<<<<< Updated upstream
-=======
 
-Justin, Chris
->>>>>>> Stashed changes
+Luis, Chris, Justin
+
